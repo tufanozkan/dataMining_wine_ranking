@@ -1,4 +1,3 @@
-# Tufan Özkan 210201078
 # data_link: https://www.kaggle.com/code/fedesoriano/spanish-wine-quality-dataset-introduction/notebook?select=wines_SPA.csv
 
 import pandas as pd
